@@ -1,6 +1,6 @@
 ##  🏦 **Cafe Shop Analysis**
 
-* This Projects:
+# * This Projects:
 - Create a clear, visually appealing, and eye-friendly dashboard for cafe transactions data.
 - Cover three branches.
 - Enable monitoring of the transactions activity.
