@@ -1,11 +1,11 @@
 ##  🏦 **Cafe Shop Analysis**
 
-# *This Projects:*
-- Create a clear, visually appealing, and eye-friendly dashboard for cafe transactions data.
-- Cover three branches.
-- Enable monitoring of the transactions activity.
-- Assist the cafe in identifying peak hours in transactions, and the most products has high demand.
-- Create a report analysis the cafe transactions data.
+# *This Projects*
+  - Create a clear, visually appealing, and eye-friendly dashboard for cafe transactions data.
+  - Cover three branches.
+  - Enable monitoring of the transactions activity.
+  - Assist the cafe in identifying peak hours in transactions, and the most products has high demand.
+  - Create a report analysis the cafe transactions data.
   
 # *The Reposiotry Includes*
   - Google-Sheets dashboard
